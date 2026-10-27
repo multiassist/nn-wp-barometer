@@ -4,7 +4,7 @@
  * Plugin URI:        https://nakamotonotes.com/open
  * Description:       Shows the Nakamoto Notes Bitcoin Barometer, a 0 to 100 Bitcoin market reading, with a shortcode or a block.
  * Version:           1.0.0
- * Requires at least: 6.7
+ * Requires at least: 7.0
  * Requires PHP:      7.4
  * Author:            NakamotoNotes
  * Author URI:        https://nakamotonotes.com
